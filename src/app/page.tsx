@@ -14,8 +14,8 @@ export default function Home() {
               Frontend Developer
             </h2>
             <p className="text-lg mb-8 text-gray-700 dark:text-gray-300">
-              I build exceptional digital experiences with modern web technologies.
-              Focused on creating accessible, performant, and visually appealing applications.
+             Passionate about web development and UI design, I enjoy building responsive and interactive websites using modern technologies. 
+             I continuously improve my skills through personal projects and hands-on learning.
             </p>
             <div className="flex gap-4">
               {/* <Link 
