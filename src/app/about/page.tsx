@@ -7,13 +7,16 @@ export default function AboutPage() {
                 <div className="grid md:grid-cols-3 gap-8">
                     <div className="md:col-span-2">
                         <p className="text-lg mb-6 text-gray-700 dark:text-gray-300">
-                            An Enthusiast and hardworking individual looking for a responsible position to begin my career with practical experience. I also seek to learn new skills
-and gain professional development in my career path with guidance from my superior for the benefit of self and the organization
+                        I am a passionate and motivated Frontend Developer who enjoys creating modern, responsive, and user-friendly websites. 
+                        I have knowledge of React.js, Next.js, Tailwind CSS, JavaScript, HTML, and CSS, and I enjoy turning ideas into interactive web applications.                        
                         </p>
                         <p className="text-lg mb-6 text-gray-700 dark:text-gray-300">
-                            I believe in clean, maintainable code and enjoy solving complex problems with simple solutions.
-                            When I'm not coding, you can find me hiking, reading tech blogs, or contributing to open-source projects.
-                        </p>
+                               Along with web development, I have an interest in UI/UX design and use Figma and Canva to create clean and visually appealing designs. 
+                                I am continuously learning new technologies, improving my skills through personal projects, and exploring best practices in web development.                        
+                                </p>
+                                <p className="text-lg mb-6 text-gray-700 dark:text-gray-300">
+                                As a fresher, I am eager to apply my knowledge, gain practical experience, and contribute to meaningful projects while growing professionally in the tech industry.
+                                </p>
                         <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md border border-gray-100 dark:border-gray-700">
                             <h3 className="text-xl font-bold mb-4 text-indigo-600 dark:text-indigo-400">
                                 My Values

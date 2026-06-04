@@ -27,12 +27,12 @@ const Header = () => {
             >
               About
             </Link>
-            <Link 
+            {/* <Link 
               href="/projects" 
               className="text-lg text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
             >
               Projects
-            </Link>
+            </Link> */}
             <Link 
               href="/contact"
               className="text-lg text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
