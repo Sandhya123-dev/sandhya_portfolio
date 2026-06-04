@@ -8,7 +8,7 @@ export default function Home() {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
             <h1 className="text-3xl md:text-4xl font-bold mb-4 text-indigo-600 dark:text-indigo-400 text-center md:text-left">
-              Hi, I'm Anjali Jayswal
+              Hi, I'm Sandhya Jayswal
             </h1>
             <h2 className="text-2xl font-semibold mb-6 text-gray-800 dark:text-gray-200 text-center md:text-left">
               Frontend Developer
@@ -18,12 +18,12 @@ export default function Home() {
               Focused on creating accessible, performant, and visually appealing applications.
             </p>
             <div className="flex gap-4">
-              <Link 
+              {/* <Link 
                 href="/projects" 
                 className="px-6 py-3 bg-gradient-to-r from-indigo-600 to-indigo-500 text-white rounded-lg hover:from-indigo-700 hover:to-indigo-600 transition-all shadow-md hover:shadow-lg inline-block"
               >
                 View My Work
-              </Link>
+              </Link> */}
               <Link 
                 href="/contact" 
                 className="px-6 py-3 bg-gradient-to-r from-emerald-500 to-emerald-400 text-white rounded-lg hover:from-emerald-600 hover:to-emerald-500 transition-all shadow-md hover:shadow-lg inline-block"
@@ -34,7 +34,7 @@ export default function Home() {
           </div>
           <div className="flex justify-center">
             <div className="w-64 h-64 rounded-full bg-gradient-to-br from-indigo-500 to-emerald-400 flex items-center justify-center text-white text-4xl font-bold shadow-xl">
-              AJ
+              SJ
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ export default function Home() {
 
       <Section title="Skills">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          {['React', 'TypeScript', 'Next.js', 'Tailwind', 'Node.js', 'Sanity', 'SQL', 'API Integration', 'PostgreSQL', 'Prisma'].map((skill) => (
+          {['React', 'TypeScript', 'Next.js', 'Tailwind', 'SQL', 'Figma' ].map((skill) => (
             <div
               key={skill}
               className="p-4 rounded-lg bg-white dark:bg-gray-800 text-center shadow-md hover:shadow-lg transition-all hover:-translate-y-1 border border-gray-100 dark:border-gray-700"
@@ -53,7 +53,7 @@ export default function Home() {
         </div>
       </Section>
 
-      <Section title="Recent Projects">
+      {/* <Section title="Recent Projects">
         <div className="grid md:grid-cols-2 gap-6">
           {[
             {
@@ -103,7 +103,7 @@ export default function Home() {
             </svg>
           </Link>
         </div>
-      </Section>
+      </Section> */}
     </>
   );
 }

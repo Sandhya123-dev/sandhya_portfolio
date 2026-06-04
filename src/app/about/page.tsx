@@ -7,9 +7,8 @@ export default function AboutPage() {
                 <div className="grid md:grid-cols-3 gap-8">
                     <div className="md:col-span-2">
                         <p className="text-lg mb-6 text-gray-700 dark:text-gray-300">
-                            I'm a passionate frontend developer with 2 years of experience building modern web applications.
-                            My expertise lies in React, TypeScript, and Next.js, with a strong focus on creating
-                            accessible and performant user interfaces.
+                            An Enthusiast and hardworking individual looking for a responsible position to begin my career with practical experience. I also seek to learn new skills
+and gain professional development in my career path with guidance from my superior for the benefit of self and the organization
                         </p>
                         <p className="text-lg mb-6 text-gray-700 dark:text-gray-300">
                             I believe in clean, maintainable code and enjoy solving complex problems with simple solutions.
@@ -43,9 +42,10 @@ export default function AboutPage() {
                             <div className="space-y-4">
                                 {[
                                     { name: 'Frontend', skills: 'React, Next.js, TypeScript, Tailwind CSS, CSS, HTML' },
-                                    { name: 'Backend', skills: 'Node.js, Express, JavaScript' },
-                                    { name: 'Databases', skills: 'MongoDB, PostgreSQL, Firebase' },
-                                    { name: 'Tools', skills: 'Github' },
+                                    { name: 'Backend', skills: 'JavaScript' },
+                                    { name: 'Databases', skills: 'Sql' },
+                                    { name: 'Tools', skills: 'Github, Figma ,Canva' },
+
                                 ].map((skill, index) => (
                                     <div key={index}>
                                         <h4 className="font-semibold text-emerald-500 dark:text-emerald-400">
@@ -61,7 +61,7 @@ export default function AboutPage() {
                     </div>
                 </div>
             </Section>
-
+{/* 
             <Section title="Experience">
                 <div className="space-y-6">
                     {[
@@ -141,7 +141,7 @@ export default function AboutPage() {
                         </div>
                     ))}
                 </div>
-            </Section>
+            </Section> */}
         </>
     );
 }
