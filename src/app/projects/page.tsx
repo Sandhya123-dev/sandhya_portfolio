@@ -3,14 +3,14 @@ import ProjectCard from '@/components/ProjectCard';
 import Section from '@/components/Section';
 
 const projects: Project[] = [
-  {
-    id: '1',
-    title: 'Portfolio Website',
-    description: 'A personal portfolio website built with Next.js, TypeScript, and Tailwind CSS with dark/light theme support.',
-    technologies: ['Next.js', 'TypeScript', 'Tailwind CSS'],
-    demoUrl: 'https://my-portfolio-five-snowy-38.vercel.app/',
-    codeUrl: '#',
-  },
+  // {
+  //   id: '1',
+  //   title: 'Portfolio Website',
+  //   description: 'A personal portfolio website built with Next.js, TypeScript, and Tailwind CSS with dark/light theme support.',
+  //   technologies: ['Next.js', 'TypeScript', 'Tailwind CSS'],
+  //   demoUrl: 'https://my-portfolio-five-snowy-38.vercel.app/',
+  //   codeUrl: '#',
+  // },
   // GoalBook is a goal-tracking app designed to help users unlock their true potential. It allows users to set goals, break them into manageable steps, track progress, and stay motivated with encouragement along the way. GoalBook makes achieving personal and professional goals simple, organized, and inspiring.
   {
     id: '2',
@@ -28,30 +28,30 @@ const projects: Project[] = [
     demoUrl: 'https://ring-road-bus-fare-calculation.vercel.app/',
     // codeUrl
   },
-  {
-    id: '4',
-    title: 'E-commerce Platform',
-    description: 'Full-stack e-commerce platform with product listings, cart functionality.',
-    technologies: ['React', 'JavaScript', 'CSS'],
-    demoUrl: 'https://ecommerce-web-hazel.vercel.app/',
-    codeUrl: 'https://github.com/anjeljayswal/EcommerceWeb',
-  },
-  {
-    id: '5',
-    title: 'To-do Task Management App',
-    description: 'A to-do task list is a simple tool that helps you organize and track tasks or activities that need to be completed.',
-    technologies: ['Next.js', 'Tailwind CSS'],
-    demoUrl: 'https://taskcalulator.vercel.app/',
-    codeUrl: 'https://github.com/anjeljayswal/FinaceCalculator',
-  },
-    {
-    id: '6',
-    title: 'Resume Builder',
-    description: 'A resume builder is a tool that helps users create professional resumes quickly and easily.',
-    technologies: ['React', 'Tailwind CSS'],
-    demoUrl: 'https://resume-builder-iota-eosin.vercel.app/',
-    codeUrl: 'https://github.com/anjeljayswal/ResumeBuilder',
-  },
+  // {
+  //   id: '4',
+  //   title: 'E-commerce Platform',
+  //   description: 'Full-stack e-commerce platform with product listings, cart functionality.',
+  //   technologies: ['React', 'JavaScript', 'CSS'],
+  //   demoUrl: 'https://ecommerce-web-hazel.vercel.app/',
+  //   codeUrl: 'https://github.com/anjeljayswal/EcommerceWeb',
+  // },
+  // {
+  //   id: '5',
+  //   title: 'To-do Task Management App',
+  //   description: 'A to-do task list is a simple tool that helps you organize and track tasks or activities that need to be completed.',
+  //   technologies: ['Next.js', 'Tailwind CSS'],
+  //   demoUrl: 'https://taskcalulator.vercel.app/',
+  //   codeUrl: 'https://github.com/anjeljayswal/FinaceCalculator',
+  // },
+  //   {
+  //   id: '6',
+  //   title: 'Resume Builder',
+  //   description: 'A resume builder is a tool that helps users create professional resumes quickly and easily.',
+  //   technologies: ['React', 'Tailwind CSS'],
+  //   demoUrl: 'https://resume-builder-iota-eosin.vercel.app/',
+  //   codeUrl: 'https://github.com/anjeljayswal/ResumeBuilder',
+  // },
   // {
   //   id: '5',
   //   title: 'Weather Dashboard',
