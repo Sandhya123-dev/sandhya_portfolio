@@ -14,19 +14,19 @@ const projects: Project[] = [
   // GoalBook is a goal-tracking app designed to help users unlock their true potential. It allows users to set goals, break them into manageable steps, track progress, and stay motivated with encouragement along the way. GoalBook makes achieving personal and professional goals simple, organized, and inspiring.
   {
     id: '2',
-    title: 'GoalBook',
-    description: 'GoalBook is a goal-tracking app designed to help users unlock their true potential. It allows users to set goals, break them into manageable steps, track progress, and stay motivated with encouragement along the way.',
-    technologies: ['Next.js', 'PostgreSQL', 'Tailwind CSS', 'Prisma', 'Sanity.io', 'Api Integration'],
-    demoUrl: 'https://dev.goalbook.app/',
+    title: 'Quote Generator',
+    description: ' has two primary meanings depending on the context: it can be a tool for creating business price estimates, or software that generates inspirational or random text snippets',
+    technologies: ['React', 'Tailwind CSS',  'Api Integration'],
+    demoUrl: 'https://quote-generator-eta-five.vercel.app/',
     // codeUrl: '',
   },
   {
     id: '3',
-    title: 'Invoice Management Application',
+    title: 'Ring Road Bus Fare Calculation',
     description: 'Full-stack invoice management app with secure authentication, invoice CRUD operations, and data visualization.',
     technologies: ['Next.js', 'PostgreSQL', 'Tailwind CSS'],
-    demoUrl: 'https://invoice-app-two-lyart.vercel.app/',
-    codeUrl: 'https://github.com/anjeljayswal/invoice-app',
+    demoUrl: 'https://ring-road-bus-fare-calculation.vercel.app/',
+    // codeUrl
   },
   {
     id: '4',

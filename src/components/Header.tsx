@@ -65,13 +65,13 @@ const Header = () => {
             >
               About
             </Link>
-            {/* <Link 
+            <Link 
               href="/projects" 
               className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:bg-indigo-50 dark:hover:bg-gray-700 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
               onClick={() => setMobileMenuOpen(false)}
             >
               Projects
-            </Link> */}
+            </Link>
             <Link 
               href="/contact"
               className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 dark:text-gray-300 hover:bg-indigo-50 dark:hover:bg-gray-700 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
