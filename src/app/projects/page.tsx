@@ -9,7 +9,6 @@ const projects: Project[] = [
     description: 'A personal portfolio website built with Next.js, TypeScript, and Tailwind CSS with dark/light theme support.',
     technologies: ['Next.js', 'TypeScript', 'Tailwind CSS'],
     demoUrl: 'https://sandhya-portfolio-git-main-sandhya123-devs-projects.vercel.app/',
-    codeUrl: '#',
   },
   {
     id: '2',
@@ -17,7 +16,6 @@ const projects: Project[] = [
     description: ' ',
     technologies: ['React', 'Tailwind CSS', 'Api Integration'],
     demoUrl: 'https://quote-generator-eta-five.vercel.app/',
-    // codeUrl: '',
   },
   {
     id: '3',
@@ -25,7 +23,6 @@ const projects: Project[] = [
     description: 'Distance Fare Calculation Website',
     technologies: ['HTML, CSS, JavaScript, PHP, DB'],
     demoUrl: 'https://ring-road-bus-fare-calculation.vercel.app/',
-    // codeUrl
   },
   {
     id: '4',
@@ -35,12 +32,24 @@ const projects: Project[] = [
     demoUrl: 'https://bolg-git-main-sandhya123-devs-projects.vercel.app/',
   },
   {
-    id: '4',
-    title: 'BLOG Website',
-    description: 'Website were we can post a Blog',
-    technologies: ['HTML', 'JavaScript', 'CSS'],
-    demoUrl: 'https://bolg-git-main-sandhya123-devs-projects.vercel.app/',
+    id: '5',
+    title: 'Jevee-Frontend',
+    description: 'We made this were we can buy Makeup, Kid fashion, ome Appliances & Television and other thing  ',
+    technologies: ['React.js', 'Tailwind CSS'],
+    demoUrl: 'https://vercel.com/sandhya123-devs-projects/jevee-frontend/3pvv8qPg2qdPfHPXQeGrvPi2w9vy',
   },
+{
+    id: '6',
+    title: 'HamroNepal Bazar',
+    description: 'We made this were we can buy Makeup, Kid fashion, ome Appliances & Television and other thing  ',
+    technologies: ['React.js', 'Tailwind CSS'],
+    demoUrl: 'https://vercel.com/sandhya123-devs-projects/jevee-frontend/3pvv8qPg2qdPfHPXQeGrvPi2w9vy',
+  },
+
+
+
+
+
   // {
   //   id: '5',
   //   title: 'To-do Task Management App',
