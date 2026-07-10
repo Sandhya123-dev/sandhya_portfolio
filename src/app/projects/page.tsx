@@ -3,39 +3,44 @@ import ProjectCard from '@/components/ProjectCard';
 import Section from '@/components/Section';
 
 const projects: Project[] = [
-  // {
-  //   id: '1',
-  //   title: 'Portfolio Website',
-  //   description: 'A personal portfolio website built with Next.js, TypeScript, and Tailwind CSS with dark/light theme support.',
-  //   technologies: ['Next.js', 'TypeScript', 'Tailwind CSS'],
-  //   demoUrl: 'https://my-portfolio-five-snowy-38.vercel.app/',
-  //   codeUrl: '#',
-  // },
-  // GoalBook is a goal-tracking app designed to help users unlock their true potential. It allows users to set goals, break them into manageable steps, track progress, and stay motivated with encouragement along the way. GoalBook makes achieving personal and professional goals simple, organized, and inspiring.
+  {
+    id: '1',
+    title: 'Portfolio Website',
+    description: 'A personal portfolio website built with Next.js, TypeScript, and Tailwind CSS with dark/light theme support.',
+    technologies: ['Next.js', 'TypeScript', 'Tailwind CSS'],
+    demoUrl: 'https://sandhya-portfolio-git-main-sandhya123-devs-projects.vercel.app/',
+    codeUrl: '#',
+  },
   {
     id: '2',
     title: 'Quote Generator',
-    description: ' has two primary meanings depending on the context: it can be a tool for creating business price estimates, or software that generates inspirational or random text snippets',
-    technologies: ['React', 'Tailwind CSS',  'Api Integration'],
+    description: ' ',
+    technologies: ['React', 'Tailwind CSS', 'Api Integration'],
     demoUrl: 'https://quote-generator-eta-five.vercel.app/',
     // codeUrl: '',
   },
   {
     id: '3',
     title: 'Ring Road Bus Fare Calculation',
-    description: 'Full-stack invoice management app with secure authentication, invoice CRUD operations, and data visualization.',
-    technologies: ['Next.js', 'PostgreSQL', 'Tailwind CSS'],
+    description: 'Distance Fare Calculation Website',
+    technologies: ['HTML, CSS, JavaScript, PHP, DB'],
     demoUrl: 'https://ring-road-bus-fare-calculation.vercel.app/',
     // codeUrl
   },
-  // {
-  //   id: '4',
-  //   title: 'E-commerce Platform',
-  //   description: 'Full-stack e-commerce platform with product listings, cart functionality.',
-  //   technologies: ['React', 'JavaScript', 'CSS'],
-  //   demoUrl: 'https://ecommerce-web-hazel.vercel.app/',
-  //   codeUrl: 'https://github.com/anjeljayswal/EcommerceWeb',
-  // },
+  {
+    id: '4',
+    title: 'BLOG Websites',
+    description: 'Website were we can post a Blog',
+    technologies: ['HTML', 'JavaScript', 'CSS'],
+    demoUrl: 'https://bolg-git-main-sandhya123-devs-projects.vercel.app/',
+  },
+  {
+    id: '4',
+    title: 'BLOG Website',
+    description: 'Website were we can post a Blog',
+    technologies: ['HTML', 'JavaScript', 'CSS'],
+    demoUrl: 'https://bolg-git-main-sandhya123-devs-projects.vercel.app/',
+  },
   // {
   //   id: '5',
   //   title: 'To-do Task Management App',
