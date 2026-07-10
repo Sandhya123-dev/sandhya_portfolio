@@ -8,7 +8,7 @@ const projects: Project[] = [
     title: 'Portfolio Website',
     description: 'A personal portfolio website built with Next.js, TypeScript, and Tailwind CSS with dark/light theme support.',
     technologies: ['Next.js', 'TypeScript', 'Tailwind CSS'],
-    demoUrl: 'https://sandhya-portfolio-git-main-sandhya123-devs-projects.vercel.app/',
+    demoUrl: 'https://sandhya-portfolio-ten.vercel.app/',
   },
   {
     id: '2',
@@ -29,21 +29,21 @@ const projects: Project[] = [
     title: 'BLOG Websites',
     description: 'Website were we can post a Blog',
     technologies: ['HTML', 'JavaScript', 'CSS'],
-    demoUrl: 'https://bolg-git-main-sandhya123-devs-projects.vercel.app/',
+    demoUrl: 'https://bolg-sigma.vercel.app/',
   },
   {
     id: '5',
     title: 'Jevee-Frontend',
     description: 'We made this were we can buy Makeup, Kid fashion, ome Appliances & Television and other thing  ',
     technologies: ['React.js', 'Tailwind CSS'],
-    demoUrl: 'https://vercel.com/sandhya123-devs-projects/jevee-frontend/3pvv8qPg2qdPfHPXQeGrvPi2w9vy',
+    demoUrl: 'https://jevee-frontend-six.vercel.app/',
   },
 {
     id: '6',
     title: 'HamroNepal Bazar',
-    description: 'We made this were we can buy Makeup, Kid fashion, ome Appliances & Television and other thing  ',
+    description: 'We are HamroNepal Bazar to help rhe people easily, they can get easily job, vehicle and other different things',
     technologies: ['React.js', 'Tailwind CSS'],
-    demoUrl: 'https://vercel.com/sandhya123-devs-projects/jevee-frontend/3pvv8qPg2qdPfHPXQeGrvPi2w9vy',
+    demoUrl: 'https://hamro-nepal-bazaar.vercel.app/',
   },
 
 
