@@ -42,7 +42,7 @@ const projects: Project[] = [
     id: '6',
     title: 'HamroNepal Bazar',
     description: 'We are HamroNepal Bazar to help rhe people easily, they can get easily job, vehicle and other different things',
-    technologies: ['React.js', 'Tailwind CSS'],
+    technologies: ['Next.js', 'Tailwind CSS, TypeScript'],
     demoUrl: 'https://hamro-nepal-bazaar.vercel.app/',
   },
 
